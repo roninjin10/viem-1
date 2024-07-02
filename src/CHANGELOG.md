@@ -1,5 +1,11 @@
 # viem
 
+## 2.16.6
+
+### Patch Changes
+
+- [`c40a311a`](https://github.com/wevm/viem/commit/c40a311a5749599dcdb3d7aa79280b3a4c0d2557) - Added support for setting `mode` on base client. Setting `mode` allows a client to be used with tree shakable test actions.
+
 ## 2.16.5
 
 ### Patch Changes
