@@ -7,7 +7,8 @@
     "src/**/*.bench-d.ts",
     "src/**/*.test.ts",
     "src/**/*.test-d.ts",
-    "src/node/trustedSetups_esm.ts"
+    "src/node/trustedSetups_esm.ts",
+    "src/PACKAGE.ts"
   ],
   "compilerOptions": {
     "sourceMap": true,
