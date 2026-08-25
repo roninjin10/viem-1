@@ -1,6 +1,6 @@
 {
   "extends": "../tsconfig.base.json",
-  "exclude": ["./tempo"],
+  "exclude": ["./tempo", "./PACKAGE.ts", "../src/PACKAGE.ts"],
   "include": [".", "../src", "../contracts/generated.ts"],
   "compilerOptions": {
     "composite": true,
